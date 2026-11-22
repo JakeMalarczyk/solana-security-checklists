@@ -27,4 +27,8 @@ These lists prepare you for an audit. They do not replace one.
 
 ## Contributing
 
-Spotted a missing check or an error? Open an issue or a pull request. Use is free, and a link back to the source is appreciated.
+Spotted a missing check or an error? Open an issue or a pull request.
+
+## License
+
+These checklists are published under [CC BY 4.0](./LICENSE). You may copy, adapt and use them, including commercially, as long as you credit Orivions (https://orivions.com) and say if you changed them.
